@@ -1,1 +1,0 @@
-Java-level deadlock captured from Task 5 - Watchdog thread report
